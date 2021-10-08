@@ -5,7 +5,8 @@
   - BomToPhysicalSeatmapQuery 
     - migrate to AMR6 
     - check for : 
-      - replace Flight Model with Flight Facade :heavy_check_mark:
-      - replace Passenger Model with Passenger Facade
-      - replace Service Model with Service Facade
+      - Flight Model with --> Facade :heavy_check_mark:
+      - Passenger Model --> Passenger Facade :heavy_check_mark:
+      - Service Model --> Service Facade :heavy_check_mark:
+      - LoyaltyProgramModel --> LoyaltyProgramFacade
 
