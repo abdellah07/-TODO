@@ -1,12 +1,17 @@
 # TODO 
 
 ### MAIN task --> SEATMAP into MERCTQ
+      - Flight Model with --> Facade 
+      - Passenger Model --> Passenger Facade 
+      - Service Model --> Service Facade 
+      - LoyaltyProgramModel --> LoyaltyProgramFacade 
 
-  - BomToPhysicalSeatmapQuery 
-    - migrate to AMR6 
-    - check for : 
-      - Flight Model with --> Facade :heavy_check_mark:
-      - Passenger Model --> Passenger Facade :heavy_check_mark:
-      - Service Model --> Service Facade :heavy_check_mark:
-      - LoyaltyProgramModel --> LoyaltyProgramFacade
+  - BomToPhysicalSeatmapQuery :heavy_check_mark:
+  - PhysicalSeatmapResponseToBom :heavy_check_mark:
+  - Seatmap :heavy_check_mark:
+  - SeatmapsForRequest :heavy_check_mark:
+  - ParallelPhysicalSeatmapService :heavy_check_mark:
+  - SinglePhysicalSeatmapService :heavy_check_mark:
+  - SeatMapQuotaRetrieverImpl
+
 
