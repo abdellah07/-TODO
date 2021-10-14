@@ -13,5 +13,6 @@
   - ParallelPhysicalSeatmapService :heavy_check_mark:
   - SinglePhysicalSeatmapService :heavy_check_mark:
   - SeatMapQuotaRetrieverImpl
+  - SeatProductsToBomMapper --> add  retrieveSeatProductsForSeatmap :heavy_check_mark:
 
 
