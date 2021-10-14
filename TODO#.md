@@ -14,5 +14,6 @@
   - SinglePhysicalSeatmapService :heavy_check_mark:
   - SeatMapQuotaRetrieverImpl
   - SeatProductsToBomMapper --> add  retrieveSeatProductsForSeatmap :heavy_check_mark:
+  - Creation of SegmentPropertiesFacade :heavy_check_mark:
 
 
