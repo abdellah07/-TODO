@@ -1,11 +1,8 @@
 # TODO 
 
 ### MAIN task --> SEATMAP into MERCTQ
-      - Flight Model with --> Facade 
-      - Passenger Model --> Passenger Facade 
-      - Service Model --> Service Facade 
-      - LoyaltyProgramModel --> LoyaltyProgramFacade 
-
+      - Model --> Facade 
+### SeatMap to AMR6
   - BomToPhysicalSeatmapQuery :heavy_check_mark:
   - PhysicalSeatmapResponseToBom :heavy_check_mark:
   - Seatmap :heavy_check_mark:
@@ -19,5 +16,12 @@
 
 ## Working On Tests
 
+
+
+
+
+
+## test Discound deleted
+      - testRetrieveSeatQuotasDiscount
 
 
