@@ -15,7 +15,8 @@
 
 
 ## Working On Tests
-
+  - add The seat map to the MERCTQ service and lunch the non regression tests
+  - migrate tests from rulesEvaluation to usecase AMR6 
 
 
 
