@@ -26,5 +26,3 @@
       - testRetrieveSeatQuotasDiscount
 
 
-![image](https://user-images.githubusercontent.com/71391891/138456454-6c65b694-b429-42d8-bba5-36b8005d53e4.png)
-![image](https://user-images.githubusercontent.com/71391891/138456537-e6371a87-7c8e-4ac0-bbb8-d8bd3aef7373.png)
