@@ -36,7 +36,7 @@
 ![secondcase](https://user-images.githubusercontent.com/71391891/139441511-81346022-1f6f-4136-8c6c-25523c1f1bcd.png)
 ![secondcase](https://user-images.githubusercontent.com/71391891/139441616-817dd57e-f7a0-42f4-a1b4-307b123ff0b7.png)
 
-
+## Cases where the seatmap isn't called
 
 ##   1 - Learn MORE about JENKINS 
 
