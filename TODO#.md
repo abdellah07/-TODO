@@ -34,6 +34,8 @@
 
 ![first case](https://user-images.githubusercontent.com/71391891/139441447-f67d3278-b6b9-4389-a3fd-a6bb1afd6d68.png)
 ![secondcase](https://user-images.githubusercontent.com/71391891/139441511-81346022-1f6f-4136-8c6c-25523c1f1bcd.png)
+![secondcase](https://user-images.githubusercontent.com/71391891/139441616-817dd57e-f7a0-42f4-a1b4-307b123ff0b7.png)
+
 
 
 ##   1 - Learn MORE about JENKINS 
