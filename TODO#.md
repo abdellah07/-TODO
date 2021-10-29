@@ -1,3 +1,9 @@
+# Commandes
+sqlite3 /gctmp/schenevotot/working_dir/amr/data/ezt/mer_param_pack.db
+INSERT INTO "MER_AIRLINES_PARAMETERS" VALUES(NULL,NULL,'blabla','Y','AIR_DISCOUNT_SUBSCRIBER','AC','AMR');
+
+
+
 # TODO 
 
 ### MAIN task --> SEATMAP into MERCTQ
