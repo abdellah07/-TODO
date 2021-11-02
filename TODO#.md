@@ -31,12 +31,13 @@
 ## test Discound deleted
       - testRetrieveSeatQuotasDiscount
 
+![image](https://user-images.githubusercontent.com/71391891/139859313-6885a064-18d7-4a19-8128-ac33857d5d82.png)
+![image](https://user-images.githubusercontent.com/71391891/139876559-322e03f7-06da-480c-9584-52918d8c4ad7.png)
 
-![first case](https://user-images.githubusercontent.com/71391891/139441447-f67d3278-b6b9-4389-a3fd-a6bb1afd6d68.png)
-![secondcase](https://user-images.githubusercontent.com/71391891/139441511-81346022-1f6f-4136-8c6c-25523c1f1bcd.png)
-![secondcase](https://user-images.githubusercontent.com/71391891/139441616-817dd57e-f7a0-42f4-a1b4-307b123ff0b7.png)
+
 
 ## Cases where the seatmap isn't called
+
 
 ##   1 - Learn MORE about JENKINS 
 
