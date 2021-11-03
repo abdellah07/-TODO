@@ -30,7 +30,6 @@
 
 ## test Discound deleted
       - testRetrieveSeatQuotasDiscount
-
 ![image](https://user-images.githubusercontent.com/71391891/139859313-6885a064-18d7-4a19-8128-ac33857d5d82.png)
 ![image](https://user-images.githubusercontent.com/71391891/140046149-b6bdb6c9-7bc9-460b-9949-f2c102242d45.png)
 
