@@ -49,10 +49,13 @@
       - Méthodes privées dans les interfaces
       - 
       ![image](https://user-images.githubusercontent.com/71391891/140715445-9185fda7-bef4-4688-8b7d-50263fc4ac80.png)
-      - // L map.of Peut prendre jusqu'à dix entrées. Instanciation de collections immuables thoes lists are immutable.
+      - L map.of Peut prendre jusqu'à dix entrées. Instanciation de collections immuables thoes lists are immutable.
       ![image](https://user-images.githubusercontent.com/71391891/140715660-f1950cf8-70a6-4256-a9da-80ab04d24be5.png)
       ![image](https://user-images.githubusercontent.com/71391891/140717108-ff06bdca-3014-481c-ba5a-fa0d64bc2e8a.png)
       ![image](https://user-images.githubusercontent.com/71391891/140718266-d4cec8df-1125-447a-9fd1-43499c0c819a.png)
+      ![image](https://user-images.githubusercontent.com/71391891/140719133-655e29a2-0144-4c7c-853a-1f96886073aa.png)
+      ![image](https://user-images.githubusercontent.com/71391891/140720923-77545f33-f3b9-434e-bafc-62b7bdfadd71.png)
+
 
 
 
