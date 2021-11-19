@@ -40,8 +40,13 @@
 
 
 
-## Cases where the seatmap isn't called
+## what was fixed
+- done : Fixing unit test in MERCTQ that where due to miss understanding of Pack and seat also due to façade constructors that needs protobuf to create the instance.
 
+- done :  on filtring Exempted services (an exempted service is a service with packseats and only exempted segment properties) and that service should not be highlited it should be filtred
+- done : building the output to be the same as expected
+
+- change attribute of InvitoryServiceFacade to optionals to control the information needed as an output and fix the failling unit and non reg tests that came from that change
 
 ##   1 - Learn MORE about JENKINS 
 
