@@ -47,12 +47,8 @@
 - done : building the output to be the same as expected
 
 - change attribute of InvitoryServiceFacade to optionals to control the information needed as an output and fix the failling unit and non reg tests that came from that change
-
-##   1 - Learn MORE about JENKINS 
-
-## JAVA 8 --> JAVA 11
-      - Jigsaw, le système modulaire
-      - Méthodes privées dans les interfaces
+      
+psmy | awk '{print $2}' | grep -E '[3*]' | awk 'BEGIN { ORS = " " } { print }'
 
 
 
