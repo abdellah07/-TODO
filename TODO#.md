@@ -37,6 +37,7 @@
 ![image](https://user-images.githubusercontent.com/71391891/142424605-087cee61-c8fd-4f67-adc4-2b6e8e695f17.png)
 ![image](https://user-images.githubusercontent.com/71391891/142638424-49f132aa-cca9-499f-aa03-4300690ff9fc.png)
 ![image](https://user-images.githubusercontent.com/71391891/142653401-ca41ed25-eed5-41b3-b89e-8f306c894ec6.png)
+![image](https://user-images.githubusercontent.com/71391891/143470931-03acb32b-6dab-4ae2-9a4a-2eb9f7e21d88.png)
 
 
 
@@ -52,6 +53,8 @@
 - change attribute of InvitoryServiceFacade to optionals to control the information needed as an output and fix the failling unit and non reg tests that came from that change
       
 psmy | awk '{print $2}' | grep -E '[3*]' | awk 'BEGIN { ORS = " " } { print }'
+
+- ssmppq fixed
 
 
 
